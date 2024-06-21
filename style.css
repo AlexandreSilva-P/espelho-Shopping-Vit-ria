@@ -1,0 +1,17 @@
+
+.imagem{
+
+}
+    footer{
+        background-color: black;
+        color: aliceblue;
+        padding: 10px;
+        text-align: center;
+    }
+    .container {
+        display: flex;
+        overflow-x: auto;
+      }
+      .cinema {
+        justify-content: center;
+      }
